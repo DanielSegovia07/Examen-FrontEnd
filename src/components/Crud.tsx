@@ -82,7 +82,7 @@ export const Crud: React.FC = () => {
   const handleEditPost = (post: Post) => {
     setEditingPost(post);
     setNewPostTitle(post.title);
-    window.scrollTo(0,0)
+    window.scrollTo(0,1)
   
   };
 
