@@ -46,7 +46,7 @@ export const Home: React.FC = () => {
             <div className="card-body">
               <h5 className="card-title text-success" style={{ fontSize: '1.2rem' }}>Ejercicio 4: CRUD con API</h5>
               <p className="card-text" style={{ fontSize: '0.95rem' }}>
-                En este ejercicio, se debe consumir la API <a href="https://jsonplaceholder.typicode.com/" target="_blank" rel="noopener noreferrer">https://jsonplaceholder.typicode.com/</a> 
+                En este ejercicio, se debe consumir la API <a href="https://jsonplaceholder.typicode.com/" target="_blank" rel="noopener noreferrer">https://jsonplaceholder.typicode.com/ </a> 
                 para realizar operaciones CRUD sobre los recursos de 'posts'. 
                 El objetivo es obtener una lista de posts desde la API, permitir la creación de un nuevo post (solo simulado), editar el título de un post existente (simulado) 
                 y eliminar un post (simulado). Se utilizarán los hooks <code>useEffect</code> y <code>useState</code> para manejar la obtención y actualización de los datos, 
