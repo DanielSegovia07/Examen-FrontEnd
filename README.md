@@ -14,7 +14,7 @@ Un contador que permite incrementar y decrementar un valor numérico. Dispone de
 Muestra una lista estática de nombres. Los elementos de la lista se renderizan utilizando el método `.map()` de React.
 
 **Ejercicio 4 - CRUD**  
-Un sistema CRUD que permite gestionar posts. Los posts se almacenan en `localStorage` para persistencia, y también se simula una comunicación con un servidor a través de la API `jsonplaceholder.typicode.com`.
+Un sistema CRUD que permite gestionar posts. Los posts se almacenan en `localStorage`, y también se simula una comunicación con un servidor a través de la API `jsonplaceholder.typicode.com`.
     - **Agregar Post**: Permite añadir un nuevo post con un título.
     - **Editar Post**: Permite modificar el título de un post existente.
     - **Eliminar Post**: Permite eliminar un post.
